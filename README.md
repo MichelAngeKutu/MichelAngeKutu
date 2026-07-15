@@ -1,16 +1,22 @@
-## Hi there 👋
+ # Hi, I'm Michelange 👋
 
-<!--
-**MichelAngeKutu/MichelAngeKutu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Engineering student in Ottawa, passionate about Java development, networking, and robotics.  
+This GitHub showcases my school projects, personal learning, and hands-on experiments.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Skills
+- Java (OOP, graphics, algorithms)
+- Networking (IPv6, NAT, routing, packet analysis)
+- Linux (command line, file systems, permissions)
+- Git & GitHub version control
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Featured Projects
+- **Voronoi Diagram Generator (Java)**  
+  Generates Voronoi diagrams using multiple distance metrics (Manhattan, Euclidean, Minkowski) with clean OOP design.
+
+- **Java Labs & Assignments**  
+  A collection of my programming exercises, algorithms, and graphics work.
+
+## 🎯 Goals
+I'm currently building my portfolio and preparing for co‑op opportunities in software development, networking, and robotics.
+
+Thanks for visiting my GitHub!
